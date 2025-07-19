@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-bc7cb278efc944f15835.json",
+					"jsonFile" : "directory-.-Debug-86f417aa59efb104a100.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Practice_Pdf_Manager::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Practice_Pdf_Manager-Debug-6275881e9e1b12976ed8.json",
+					"jsonFile" : "target-Practice_Pdf_Manager-Debug-a0cb2f77d1be1ff23527.json",
 					"name" : "Practice_Pdf_Manager",
 					"projectIndex" : 0
 				},
