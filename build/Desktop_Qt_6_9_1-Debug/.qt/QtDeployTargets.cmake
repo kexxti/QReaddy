@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Practice_Pdf_Manager_FILE /home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/Practice_Pdf_Manager)
+set(__QT_DEPLOY_TARGET_Practice_Pdf_Manager_TYPE EXECUTABLE)

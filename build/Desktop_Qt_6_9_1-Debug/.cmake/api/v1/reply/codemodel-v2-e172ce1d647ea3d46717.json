@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-86f417aa59efb104a100.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practice_Pdf_Manager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practice_Pdf_Manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practice_Pdf_Manager-Debug-5738d1a88301b036faca.json",
+					"name" : "Practice_Pdf_Manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practice_Pdf_Manager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practice_Pdf_Manager_autogen-Debug-dcb6819d51ea41ffe6bb.json",
+					"name" : "Practice_Pdf_Manager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practice_Pdf_Manager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practice_Pdf_Manager_autogen_timestamp_deps-Debug-3a075d67d97c18e546b0.json",
+					"name" : "Practice_Pdf_Manager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug",
+		"source" : "/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

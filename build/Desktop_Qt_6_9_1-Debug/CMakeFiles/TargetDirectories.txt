@@ -1,0 +1,9 @@
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Practice_Pdf_Manager.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Practice_Pdf_Manager_autogen_timestamp_deps.dir
+/home/kexxti/Desktop/practice2025/Practice_Pdf_Manager/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Practice_Pdf_Manager_autogen.dir
